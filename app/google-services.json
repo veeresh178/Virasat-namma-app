@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068041237477",
+    "project_id": "virasat-namma",
+    "storage_bucket": "virasat-namma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068041237477:android:a15e4d2b3c0b75f8f0750c",
+        "android_client_info": {
+          "package_name": "com.virasatnamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fvzKgNAvnHxpTqU_7td2Y6bA3uL7Pko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

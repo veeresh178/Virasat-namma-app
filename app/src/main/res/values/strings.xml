@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virasat-Namma</string>
+    <string name="app_tagline">Discover Karnataka\'s Heritage</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_passport">Passport</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Virasat-Namma</string>
+    <string name="home_subtitle">Discover Karnataka\'s Heritage</string>
+    <string name="home_nearby">Nearby Sites</string>
+    <string name="home_all_sites">All Sites</string>
+    
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_temple">Temple</string>
+    <string name="category_monument">Monument</string>
+    <string name="category_palace">Palace</string>
+    <string name="category_market">Historical Market</string>
+    
+    <!-- Site Details -->
+    <string name="site_details_title">Site Details</string>
+    <string name="site_details_about">About</string>
+    <string name="site_details_facts">Hidden Facts</string>
+    <string name="site_details_audio_guide">Play Audio Guide</string>
+    <string name="site_details_check_in">Check-In</string>
+    <string name="site_details_visited">✓ Visited</string>
+    <string name="site_details_language">Language</string>
+    
+    <!-- Scanner -->
+    <string name="scanner_title">QR Code Scanner</string>
+    <string name="scanner_ready">Ready to Scan</string>
+    <string name="scanner_description">Point your camera at QR codes placed at heritage sites</string>
+    <string name="scanner_open_camera">Open Camera</string>
+    <string name="scanner_success">Scan Successful!</string>
+    <string name="scanner_error">Scan Error</string>
+    <string name="scanner_scan_another">Scan Another Code</string>
+    <string name="scanner_view_details">View Site Details</string>
+    
+    <!-- Passport -->
+    <string name="passport_title">Digital Passport</string>
+    <string name="passport_subtitle">Your heritage discovery journey</string>
+    <string name="passport_progress">Your Progress</string>
+    <string name="passport_visited">Visited</string>
+    <string name="passport_total">Total</string>
+    <string name="passport_completion">Completion</string>
+    <string name="passport_your_visits">✓ Your Visits</string>
+    <string name="passport_no_visits">No visits yet. Start exploring!</string>
+    
+    <!-- Common -->
+    <string name="error_loading">Error loading data</string>
+    <string name="error_check_in">Check-in failed</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="success">Success</string>
+    <string name="try_again">Try Again</string>
+    <string name="close">Close</string>
+    <string name="refresh">Refresh</string>
+</resources>
